@@ -1,1 +1,6 @@
-Project về quản lí chi thu cá nhân, thống kê chi tiêu theo ngày tháng
+Mobile Project
+
+
+
+
+This is a project on spending management created by the ISMS team with the aim of helping users manage money properly with a user-friendly interface.
