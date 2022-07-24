@@ -6,7 +6,6 @@ import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentStatePagerAdapter;
 
 import com.example.Dongngnhph14940_asm.fragment.KhoanThuFragment;
-import com.example.Dongngnhph14940_asm.fragment.LoaiThuFragment;
 
 public class ThuVPAdapter extends FragmentStatePagerAdapter {
     public ThuVPAdapter(FragmentManager fm){

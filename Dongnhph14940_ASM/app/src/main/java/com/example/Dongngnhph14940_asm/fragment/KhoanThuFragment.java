@@ -24,7 +24,6 @@ import com.example.Dongngnhph14940_asm.Quanly.GiaoDichDAO;
 import com.example.Dongngnhph14940_asm.Quanly.KhoanDAO;
 import com.example.Dongngnhph14940_asm.R;
 import com.example.Dongngnhph14940_asm.adapter.KhoanThuAdapter;
-import com.example.Dongngnhph14940_asm.adapter.SpinnerAdapter;
 import com.example.Dongngnhph14940_asm.model.GiaoDich;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;
