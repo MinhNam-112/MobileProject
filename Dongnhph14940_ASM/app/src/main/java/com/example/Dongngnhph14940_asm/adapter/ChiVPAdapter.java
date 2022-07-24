@@ -6,7 +6,6 @@ import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentStatePagerAdapter;
 
 import com.example.Dongngnhph14940_asm.fragment.KhoanChiFragment;
-import com.example.Dongngnhph14940_asm.fragment.LoaiChiFragment;
 
 public class ChiVPAdapter extends FragmentStatePagerAdapter {
     public ChiVPAdapter(FragmentManager fm){
