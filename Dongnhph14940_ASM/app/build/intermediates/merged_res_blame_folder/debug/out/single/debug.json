@@ -8,12 +8,12 @@
         "source": "D:\\Download\\Dongnhph14940_ASM\\app\\src\\main\\res\\layout\\layout_navigation_header.xml"
     },
     {
-        "merged": "D:\\Download\\Dongnhph14940_ASM\\app\\build\\intermediates\\res\\merged\\debug\\layout_edit_loai_alert_dialog.xml.flat",
-        "source": "D:\\Download\\Dongnhph14940_ASM\\app\\src\\main\\res\\layout\\edit_loai_alert_dialog.xml"
-    },
-    {
         "merged": "D:\\Download\\Dongnhph14940_ASM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_edit.png.flat",
         "source": "D:\\Download\\Dongnhph14940_ASM\\app\\src\\main\\res\\drawable\\ic_edit.png"
+    },
+    {
+        "merged": "D:\\Download\\Dongnhph14940_ASM\\app\\build\\intermediates\\res\\merged\\debug\\layout_edit_loai_alert_dialog.xml.flat",
+        "source": "D:\\Download\\Dongnhph14940_ASM\\app\\src\\main\\res\\layout\\edit_loai_alert_dialog.xml"
     },
     {
         "merged": "D:\\Download\\Dongnhph14940_ASM\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_thong_ke_chi.xml.flat",

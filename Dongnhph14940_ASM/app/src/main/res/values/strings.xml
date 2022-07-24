@@ -1,0 +1,18 @@
+<resources>
+    <string name="chucnang_name">Chức năng</string>
+    <string name="chucnang1_name">Giới thiệu</string>
+    <string name="app_name">Quản Lý Chi Tiêu</string>
+    <string name="chi_name">Khoản Chi</string>
+    <string name="thu_name">Khoản Thu</string>
+    <string name="thongke_name">Thống Kê</string>
+    <string name="gioithieu_name">Giới Thiệu</string>
+    <string name="thoat_name">Thoát</string>
+    <string name="my_name">Nguyễn Hữu Đồng</string>
+    <string name="email_name">PH14940</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loaichi_name">Loại Chi</string>
+    <string name="noidung_name">Nội Dung</string>
+    <string name="gioithieu_text">Grand Theft Auto V (hay còn được viết là Grand Theft Auto Five, GTA 5 hoặc GTA V) là một trò chơi điện tử phát triển bởi Rockstar North. Đây là phiên bản thứ mười lăm của dòng trò chơi Grand Theft Auto và là phiên bản kế nhiệm của siêu phẩm bom tấn Grand Theft Auto IV. Phiên bản gốc được phát hành vào ngày 17 tháng 9 năm 2013 </string>
+</resources>
